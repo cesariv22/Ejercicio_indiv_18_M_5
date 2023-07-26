@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Ejercicio_indiv_18_M_5</string>
+
+    <string name="hint_enter_integer">Ingresa un número Entero</string>
+    <string name="hint_enter_decimal">Ingresa un número Decimal</string>
+    <string name="hint_enter_text">Ingresa un texto</string>
+    <string name="button_save">Guardar</string>
+    <string name="button_clear">Borrar</string>
+    <string name="stored_value_label">Valor almacenado: %d</string>
+    <string name="stored_value_label2">Texto almacenado: %s</string>
+    <string name="stored_value_label3">Valor almacenado: %s</string>
+    <string name="invalid_number">Ingresa un número válido</string>
+    <string name="invalid_text">Ingresa un texto válido</string>
+    <string name="invalid_decimal">Ingresa un número decimal válido</string>
+    <string name="true_choice">Verdadero</string>
+    <string name="false_choice">Falso</string>
+
+</resources>
